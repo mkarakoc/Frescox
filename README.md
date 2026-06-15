@@ -1,3 +1,9 @@
+# this is my personal copy of Frescox
+
+# follow for the original code:
+https://github.com/LLNL/Frescox
+
+
 # Frescox
 Scattering code Frescox for coupled-channels calculations
 
