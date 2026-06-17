@@ -1,5 +1,10 @@
 # this is my personal copy of Frescox
 
+If you are to install fresco yourself in a standard bin directory,  
+then steps 3 and 4 may be omitted, and step 2' performed manually
+
+ make MACH=gfortran
+
 # follow for the original code:
 https://github.com/LLNL/Frescox
 
